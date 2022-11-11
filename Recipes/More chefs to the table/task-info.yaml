@@ -1086,7 +1086,7 @@ files:
 - name: src/recipes/login/UserRepository.java
   visible: true
   learner_created: true
-- name: src/README.md
+- name: ./README.md
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/180/stages/921/implement#comment
